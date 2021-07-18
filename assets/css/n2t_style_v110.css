@@ -10,6 +10,7 @@
     margin: 0 auto;
 }
 
+
 .Notion_P .page-body a,
 .Notion_P .page-body a.visited {
     color: inherit;
@@ -148,9 +149,10 @@
 .Notion_P .page-body table,
 .Notion_P .page-body th,
 .Notion_P .page-body td {
-    border: 1px solid rgba(55, 53, 47, 0.09);
     border-collapse: collapse;
+    border: 1px solid #000000;
 }
+
 
 .Notion_P .page-body table {
     border-left: none;
@@ -214,7 +216,7 @@
 }
 
 .Notion_P .page-body ul > li {
-    padding-left: 0.1em;
+    padding-left: 1.2em;
 }
 
 .Notion_P .page-body ol {
@@ -359,13 +361,13 @@
 }
 
 .Notion_P .page-body code {
-    background: rgba(135, 131, 120, 0.15);
+   // background: rgba(135, 131, 120, 0.15);
     border-radius: 3px;
     padding: 0.2em 0.4em;
     border-radius: 3px;
     font-size: 85%;
     tab-size: 2;
-    color: #eb5757;
+    //color: #eb5757;
 }
 
 .Notion_P .page-body .code {
