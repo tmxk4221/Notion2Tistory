@@ -361,14 +361,12 @@
 }
 
 .Notion_P .page-body code {
-    // background: rgba(135, 131, 120, 0.15);
     border-radius: 3px;
     padding: 0.2em 0.4em;
     border-radius: 3px;
     font-size: 85%;
     tab-size: 2;
     color: #eb5757;
-    // border: 1px solid #e0e0e0;
 }
 
 .Notion_P .page-body .code {
